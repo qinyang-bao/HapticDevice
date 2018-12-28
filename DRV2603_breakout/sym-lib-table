@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/New_Library.lib)(options "")(descr ""))
+  (lib (name DRV2603RUNR)(type Legacy)(uri ${KIPRJMOD}/DRV2603RUNR.lib)(options "")(descr ""))
+)

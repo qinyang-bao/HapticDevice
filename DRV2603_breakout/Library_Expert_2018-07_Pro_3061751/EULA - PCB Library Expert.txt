@@ -1,0 +1,123 @@
+END USER LICENSE AGREEMENT
+PCB Libraries, Inc. (PCBL)
+Updated on August 8, 2018
+
+This copy of PCB Library Expert ("the Software Product") and accompanying documentation is licensed and not sold. This Software Product is protected by copyright laws and treaties, as well as laws and treaties related to other forms of intellectual property. PCB Libraries, Inc. or its subsidiaries, affiliates, and suppliers ("PCBL") own intellectual property rights in the Software Product. The Licensee's ("you" or "your") license to download, use, copy, or change the Software Product is subject to these rights and to all the terms and conditions of this End User License Agreement ("Agreement").
+
+Acceptance
+YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT BY SELECTING THE "ACCEPT" OPTION AND DOWNLOADING THE SOFTWARE PRODUCT OR BY INSTALLING, USING, OR COPYING THE SOFTWARE PRODUCT. YOU MUST AGREE TO ALL OF THE TERMS OF THIS AGREEMENT BEFORE YOU WILL BE ALLOWED TO DOWNLOAD THE SOFTWARE PRODUCT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, YOU MUST SELECT "DECLINE" AND YOU MUST NOT INSTALL, USE, OR COPY THE SOFTWARE PRODUCT.
+
+License CATEGORIES
+ENTERPRISE - This Agreement entitles you to install and use one copy of the Software Product. In addition, you may make one archival copy of the Software Product. The archival copy must be on a storage medium other than a hard drive, and may only be used for the reinstallation of the Software Product. This Agreement does not permit the installation or use of multiple copies of the Software Product, or the installation of the Software Product on more than one computer at any given time, on a system that allows shared used of applications, on a multi-user network, or on any configuration or system of computers that allows multiple users. Multiple copy use or installation is only allowed if you obtain an appropriate licensing agreement for each user and each copy of the Software Product.
+
+ENTERPRISE for EDUCATIONAL use - Any Enterprise License offered at educational discounts (as specified on quote and/or invoice) is to be ONLY for educational, non-commercial use, for a minimum of 1 year from time of purchase, is non-transferrable, and is individual-based (not company-based).
+
+VIEWER and free PROFESSIONAL (released after Feb 2018) - This Agreement entitles you to install and use the limited "Professional ("Pro"), formerly named "Lite", and "Viewer" versions of the Software Product on any number of your computers. There are no restrictions on number of installations for the Pro and "Viewer" versions. Pro version output files may be altered, but removal or alteration of the auto-inserted "PCB Libraries" meta data from any output files is a violation of this Agreement.
+
+Software evaluation may only be done with the initial evaluation license, any action to extend this time, such as but not limited to reinstalling, changing computers, using multiple drives, etc., is prohibited.
+
+---------------------------------------
+License Types (ENTERPRISE)
+
+SIX types of ENTERPRISE licenses are available for this product. These licenses are in two categories: 1) USB Key (SINGLE USER, NETWORK, GLOBAL), and 2) SL (SINGLE-SL, NETWORK-SL, GLOBAL-SL - based on PC or server hardware). The type of license purchased is specified on the invoice or receipt. You assume full responsibility for the safekeeping of the license/registration code you are provided for either type of license.
+
+SINGLE USER - Perpetual, on USB Key. This license grants use of the Software on one computer OTHER than a server, shared drive, or other medium that shares connection with other computers. When the Software is used under this license, it must be used locally. One (1) website user is allowed for each Single User License.
+
+NETWORK - Perpetual, on USB Key. The Network License grants the right to install and use the Software on a local company network. For example, a 10-user Network License grants use of the Software on 10 simultaneous computers, anywhere on the company's local network. It is the users' responsibility to ensure the license/software is allowed/restricted to specific user(s). The Network License is available on USB Key or SL-install, and the number of seats/licenses purchased may be checked in/out over a local network. Three (3) local (same company location) website users are allowed for each Network User License.
+
+GLOBAL - Perpetual, on USB Key. The Global Network License grants the right to install and use the Software on global company network (using VPN). For example, a 10-user Network License grants use of the Software on 10 simultaneous computers, anywhere on the company's global network. It is the users' responsibility to ensure the license/software is allowed/restricted to specific user(s). The Global Network License is available on USB Key or SL-install, and the number of seats/licenses purchased may be checked in/out over a global company network. Four (4) website users are allowed for each Global Network User License.
+
+Activation Types, Limits, and Replacements
+USB KEY (HASP HL) - USB Keys are perpetual licenses - they only need to be activated one time, and with any change in product over time (addition of new CAD tools, etc). The perpetual USB Key-based license is the default license priced into the PCB Library Expert. Damaged USB Keys may be replaced by PCBL at cost (varies based on type of license), plus an administrative fee and shipping/handling, provided the damaged USB Key is sent to PCBL and its authenticity can be verified. Lost or stolen keys will not be replaced and the license must be repurchased. It is recommended that customers add this license to the business insurance policy they have to ensure it is covered. PCBL can issue a 30-day temporary license while the insurance process covers for the repurchase of the new license(s).
+
+SINGLE-SL and NETWORK-SL
+The HASP "SL" licenses expire at the end of each calendar year, at which time they cease to function unless they either get REFRESHED or REPLACED.
+	REFRESH - renewing same License ID (on same machine, or server if a network license)
+	REPLACE - issue a new License ID for a new PC or server
+
+There will be no cost to REFRESH nor REPLACE either SL license if in conjunction with an upgrade purchase. If no upgrade is purchased and the license needs to be refreshed for a Library Expert version older than what is currently available at that time (for example refreshing a 2016 license for another 12 months in 2017 without upgrading to version 2017), the 12-month REFRESH will be subject to a non-refundable processing fee of $100. THERE IS NO GUARANTEE that older versions of the Library Expert will function as intended - or at all - with newer operating systems, patches, .NET Framework updates, etc.
+
+If the license needs to be installed on a new computer or a new activation is required for whatever reason, a REPLACEMENT license will be required, and will be subject to a non-refundable processing fee of $125; customer and PCBL may need to take steps to terminate all previously issued license(s)/activation(s) that are being replaced. A limit of 3 license replacements are allowed for each VERSION of the Library Expert for which a license is purchased, after which the licenses must be repurchased.
+
+NOTE: All costs associated with REFRESH or REPLACEMENT of SL Licenses are subject to reasonable change year to year.
+
+-------------
+FPX Part Data
+By using this FPX content from PCB Libraries, Inc., whether via Parts on Demand (POD) or otherwise, I also AGREE to the following:
+
+I UNDERSTAND FPX PART DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OR GUARANTEE (EXPRESSED OR IMPLIED) OF ANY KIND AND SHOULD BE VERIFIED PRIOR TO USE. I AGREE TO BEAR SOLE RESPONSIBILITY AND ALL LIABILITY FOR ANY LOSS INCURRED DUE TO FAILURE OF THE DATA TO MEET MY REQUIREMENTS, FOR WHATEVER REASON. It is my personal responsibility to verify accuracy, and I agree that I will download and/or use at my OWN risk. I will not hold PCBL liable for damages arising from my use or inability to use the downloaded material, nor from my verification, modification, or acceptance of the same for any reason, even if I follow recommendations posted on the PCBL website or get guidance via email from PCBL representatives.
+
+FPX data files can only be used with properly licensed installations of the PCB Library Expert, or software created by PCBL partners designed to import and use FPX data files.
+
+FPX data files and Library Expert output data is not to be sold or re-distributed (other than with a PCB design project), unless you obtain a Distribution of Content (DoC) License from PCB Libraries. The DoC is currently available (starting at $50,000 per year) per output format type supported by the Library Expert.
+
+I understand that PCBL reserves the right to add or remove parts from POD at its sole discretion, and PCBL also reserves the right to make certain parts available for a charge or fee, with no advance notice. At any point, parts that one time have been free may be made available via POD at an additional cost.
+
+
+Updates to this Agreement
+PCBL may modify this Agreement at any time. You will be bound by the terms of the Agreement at time of installation of this Software Product.
+
+Restrictions on Transfer
+Without first obtaining the express written consent of PCBL, you may not assign your rights and obligations under this Agreement, or redistribute, encumber, sell, rent, lease, sublicense, or otherwise transfer your rights to the Software Product.
+
+Restrictions on Use
+You may not use, copy, or install the Software Product on any system with more than one computer, or permit the use, copying, or installation of the Software Product by more than one user or on more than one computer. If you hold multiple, validly licensed copies, you may not use, copy, or install the Software Product on any system with more than the number of computers permitted by license, or permit the use, copying, or installation by more users, or on more computers than the number permitted by license. 
+
+You may not decompile, "reverse-engineer", disassemble, or otherwise attempt to derive the source code for the Software Product, in part, or in whole.
+
+You may not use the database portion of the Software Product in connection with any software other than the Software Product.
+
+It is illegal to use any version of this Software that was not purchased or licensed directly from PCBL, or may have been modified any another party. To ensure compliance, the Software should always be obtained from www.PCBLibraries.com or its registered channel partners.
+
+Restrictions on Alteration
+You may not modify the Software Product or create any derivative work of the Software Product or its accompanying documentation. Derivative works include but are not limited to translations. You may not alter any files or libraries in any portion of the Software Product. You may not reproduce the database portion or create any tables or reports relating to the database portion. You may not remove or alter or remove this Agreement.
+
+Selling or Distributing Software or Software Content
+Only PCBL and authorized Channel Partners may distribute, sell, or exchange 1) this Software in part or in whole, 2) the license/registration code, or 3) content created by this Software, except on a PCB design project-by-project basis. If you intend to use this Software to sell or distribute content that can be created by this Software, you need to contact PCBL to obtain a Distribution of Content License.
+
+Upgrades & Previous Versions
+PCBL will determine, at its sole discretion what options, features, fixes, updates, or any other changes will be applied and made available as free updates, or paid upgrades. PCBL will add or remove features of the program in future releases as it chooses.
+
+PCBL is not responsible to provide you earlier versions of the Software for which you may or may not have purchased a license. You are strongly encouraged to upgrade to the latest version available.
+
+It is your responsibility to back up any data saved with this file, especially during upgrades. Installing Software upgrades not covered by a purchased license will result in the Software not working or working in a limited manner. It is also your responsibility to ensure the license/registration code you have will work with the installation package of this program you use before you install the program.
+
+Maintenance
+Purchased maintenance plans commence when the previous maintenance plan expired. All upgrades to the software license for which maintenance is purchased will be made available to the customer during the maintenance period. However, maintenance offers no guarantees of specific updates, fixes, features or modifications to the software. Maintenance purchased to upgrade previous versions will be effective as of January 1, 2017 (more than a month after the release of v2017); one maintenance year must be purchased to get an additional year after v2016, two maintenance years if purchasing maintenance to "catch up" from v2015, and so on. Only maintenance plans that at brings customer current may be purchased. For example, if a you fall 1.5 years off maintenance, you will need to purchase at least 2 years to get "caught up". 
+
+Refunds
+No refunds will be made after Software is downloaded, OR license/registration code is provided, an email with the license/registration code to the email address you provide shall satisfy this requirement. 
+
+Restrictions on Copying
+You may not copy any part of the Software Product except to the extent that licensed use inherently demands the creation of a temporary copy stored in computer memory and not permanently affixed on storage medium. You may make one archival copy which must be stored on a medium other than a computer hard drive.
+
+Limited Software Product Warranty
+For a period of 30 days from the date of shipment or from the date that you download the Software Product, as applicable, PCBL warrants that when properly installed and used under normal conditions, the Software Product will perform substantially as advertised.
+
+Disclaimer of Warranties and Limitation of Liability
+UNLESS OTHERWISE EXPLICITLY AGREED TO IN WRITING BY PCBL, PCBL MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, IN FACT OR IN LAW, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OTHER THAN AS SET FORTH IN THIS AGREEMENT OR IN THE LIMITED WARRANTY DOCUMENTS PROVIDED WITH THE SOFTWARE PRODUCT.
+
+PCBL makes no warranty that the Software Product will meet your requirements or operate under your specific conditions of use. PCBL also makes no guarantee CAD vendors will cooperate to ensure future revisions of their CAD tool(s) can process files created by the Library Expert. PCBL makes no warranty that operation of the Software Product will be secure, error free, or free from interruption. YOU MUST DETERMINE WHETHER THE SOFTWARE PRODUCT SUFFICIENTLY MEETS YOUR REQUIREMENTS FOR SECURITY AND UNINTERRUPTABILITY. YOU BEAR SOLE RESPONSIBILITY AND ALL LIABILITY FOR ANY LOSS INCURRED DUE TO FAILURE OF THE SOFTWARE PRODUCT TO MEET YOUR REQUIREMENTS. PCBL WILL NOT, UNDER ANY CIRCUMSTANCES, BE RESPONSIBLE OR LIABLE FOR THE LOSS OF DATA ON ANY COMPUTER OR INFORMATION STORAGE DEVICE.
+
+UNDER NO CIRCUMSTANCES SHALL PCBL, ITS DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY OTHER PARTY FOR INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, PUNITIVE, OR EXEMPLARY DAMAGES OF ANY KIND (INCLUDING LOST REVENUES OR PROFITS OR LOSS OF BUSINESS) RESULTING FROM THIS AGREEMENT, OR FROM THE FURNISHING, PERFORMANCE, INSTALLATION, OR USE OF THE SOFTWARE PRODUCT, WHETHER DUE TO A BREACH OF CONTRACT, BREACH OF WARRANTY, OR THE NEGLIGENCE OF PCBL OR ANY OTHER PARTY, EVEN IF PCBL IS ADVISED BEFOREHAND OF THE POSSIBILITY OF SUCH DAMAGES. TO THE EXTENT THAT THE APPLICABLE JURISDICTION LIMITS PCBL'S ABILITY TO DISCLAIM ANY IMPLIED WARRANTIES, THIS DISCLAIMER SHALL BE EFFECTIVE TO THE MAXIMUM EXTENT PERMITTED.
+
+Limitation of Remedies and Damages
+Any claim must be made within the applicable warranty period. All warranties cover only defects arising under normal use and do not include malfunctions or failure resulting from misuse, abuse, neglect, alteration, problems with electrical power, acts of nature, unusual temperatures or humidity, improper installation, or damage determined by PCBL to have been caused by you. All limited warranties on the Software Product are granted only to you and are non-transferable. You agree to indemnify and hold PCBL harmless from all claims, judgments, liabilities, expenses, or costs arising from your breach of this Agreement and/or acts or omissions.
+
+Termination and Illegal Use
+PCBL may terminate any license if it is determined user(s) have violated the terms of this Agreement, and make legal claim on all profits acquired using this Software while not complying with the terms of this agreement. Termination will affect any other service tied to the liccense (such as Parts on Demand). If it is determined the terms of this Agreement have been violated and your license is revoked, should you want to continue using this Software you will need to repurchase a license at current list price, you will not qualify for any promotional prices/discounts, and you will need to certify that you will comply with the terms of this Agreement.
+
+Governing Law, Jurisdiction and Costs
+This Agreement is governed by the laws of Arizona, without regard to Arizona's conflict or choice of law provisions.
+
+You agree to not provide or make available any product or service from us to any individual or entity restricted by the United States Government on the Denied Persons List, or any individual or entity in a country with a United States trade embargo. The countries with a U.S. trade embargo currently include (but may change) Cuba, Iran, North Korea, Sudan, or Syria. You agree that your use of anything related with PCBL will be in full compliance with any local and/or foreign government regulations, as applicable.
+
+Severability
+If any provision of this Agreement shall be held to be invalid or unenforceable, the remainder of this Agreement shall remain in full force and effect. To the extent any express or implied restrictions are not permitted by applicable laws, these express or implied restrictions shall remain in force and effect to the maximum extent permitted by such applicable laws.
+
+Your remedy for a breach of this Agreement or of any warranty included in this Agreement is the correction or replacement of the Software Product. Selection of whether to correct or replace shall be solely at the discretion of PCBL. PCBL reserves the right to substitute a functionally equivalent copy of the Software Product as a replacement.
+
+This EULA was originally created at RocketLawyer.com and modified by PCBL.
+
+© 2012-2018 PCB Libraries, Inc.
+

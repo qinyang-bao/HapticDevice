@@ -1,0 +1,9 @@
+- MS-Windows 10, 8, 7, or Vista (Windows XP may work, but is no longer supported by Microsoft)
+
+- The Microsoft .NET Framework 4.5 (downloadable from Microsoft)
+http://www.microsoft.com/en-us/download/details.aspx?id=17851
+
+- 30MB of hard drive space
+- Display resolution of 1024 x 768
+- Internet connection is required for connecting to the Parts on Demand database
+- The Lite version requires an internet connection to stream advertisements

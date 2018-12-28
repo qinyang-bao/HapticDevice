@@ -1,0 +1,114 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+QFN50P200X200X80-10N
+$EndINDEX
+$MODULE QFN50P200X200X80-10N
+Po 0 0 0 15 00000000 00000000 ~~
+Li QFN50P200X200X80-10N
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0.53116 -3.25715 1.0022 1.0022 0 0.05 N V 21 "QFN50P200X200X80-10N"
+T1 1.16709 3.25585 1.0018 1.0018 0 0.05 N V 21 "VAL**"
+DC -1.845 -1.02 -1.745 -1.02 0.2 21
+DC -1.845 -1.02 -1.745 -1.02 0.2 24
+DS 1 1 -1 1 0.127 24
+DS 1 -1 -1 -1 0.127 24
+DS 1 1 1 -1 0.127 24
+DS -1 1 -1 -1 0.127 24
+DS 1 1 0.7 1 0.127 21
+DS 0.7 1 0.65 1 0.127 21
+DS -1.615 1.615 1.615 1.615 0.05 26
+DS -1.615 -1.615 1.615 -1.615 0.05 26
+DS -1.615 1.615 -1.615 -1.615 0.05 26
+DS 1.615 1.615 1.615 -1.615 0.05 26
+DS -1 -1 -0.3 -1 0.127 21
+DS 1 -1 0.3 -1 0.127 21
+DS -1 1 -0.3 1 0.127 21
+DS 0.65 1 0.3 1 0.127 21
+$PAD
+Sh "5" R 0.96 0.27 0 0 900
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 0.885
+$EndPAD
+$PAD
+Sh "10" R 0.96 0.27 0 0 900
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -0.885
+$EndPAD
+$PAD
+Sh "1" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.885 -0.75
+$EndPAD
+$PAD
+Sh "2" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.885 -0.25
+$EndPAD
+$PAD
+Sh "3" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.885 0.25
+$EndPAD
+$PAD
+Sh "4" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.885 0.75
+$EndPAD
+$PAD
+Sh "6" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.885 0.75
+$EndPAD
+$PAD
+Sh "7" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.885 0.25
+$EndPAD
+$PAD
+Sh "8" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.885 -0.25
+$EndPAD
+$PAD
+Sh "9" R 0.96 0.27 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.885 -0.75
+$EndPAD
+$EndMODULE QFN50P200X200X80-10N

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DRV2603RUNR)(type Legacy)(uri ${KIPRJMOD}/DRV2603RUNR.mod)(options "")(descr ""))
+)

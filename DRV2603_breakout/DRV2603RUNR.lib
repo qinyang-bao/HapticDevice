@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# DRV2603RUNR
+#
+DEF DRV2603RUNR U 0 40 Y Y 1 L N
+F0 "U" -501 440 50 H V L BNN
+F1 "DRV2603RUNR" -502 -559 50 H V L BNN
+F2 "QFN50P200X200X80-10N" 0 0 50 H I L BNN
+F3 "Texas Instruments" 0 0 50 H I L BNN
+F4 "Haptic Driver with Auto Resonance Tracking for LRA and Optimized Drive for ERM 10-QFN -40 to 85" 0 0 50 H I L BNN
+F5 "DRV2603RUNR" 0 0 50 H I L BNN
+F6 "QFN-10 Texas Instruments" 0 0 50 H I L BNN
+F7 "None" 0 0 50 H I L BNN
+F8 "Unavailable" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 16 -500 400 500 400 N
+P 2 0 0 16 500 400 500 -400 N
+P 2 0 0 16 500 -400 -500 -400 N
+P 2 0 0 16 -500 -400 -500 400 N
+X EN 1 -700 100 200 R 40 40 0 0 I 
+X LRA/!ERM 3 -700 0 200 R 40 40 0 0 I 
+X PWM 2 -700 -100 200 R 40 40 0 0 I 
+X VDD 7 700 300 200 L 40 40 0 0 W 
+X OUT_P 9 700 100 200 L 40 40 0 0 O 
+X OUT_M 6 700 0 200 L 40 40 0 0 O 
+X GND 5 700 -300 200 L 40 40 0 0 W 
+X GND 8 700 -300 200 L 40 40 0 0 W 
+X GND 10 700 -300 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

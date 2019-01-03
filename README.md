@@ -8,4 +8,6 @@ for ERM/LRA vibration motors. Also, since there are 3 timers on the ATmega328P p
 might be controlled separately.    
 
 Currently, the software aspect (first version) of this project has been developped and tested. The next step is to finish and verify
-the electrical and mechanical designs.
+the electrical and mechanical designs.    
+
+The CAD of individual enclosing for the 307-100 vibration motor and the KiCad files for the breakout board for the drv2603 are also included in this repo.
